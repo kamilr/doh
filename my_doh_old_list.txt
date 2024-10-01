@@ -366,9 +366,6 @@ dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
 
 # List of DNS over HTTPS Servers - Domains
-# License: MIT
-# Updated: 2020-05-08T20:00:00Z
-# More info: https://github.com/flo-wer/doh-list/
 
 ## Canary
 use-application-dns.net
@@ -5537,13 +5534,10 @@ uw-dns.rubyfish.cn
 1dot1dot1dot1.cloudflare-dns.com
 2.dnscrypt-cert.dns.seby.io
 
-## Title : Bryant's DNS HTTPS Blocklist
 ## Prevent program and malware to bypass DNS filter by using popular DoH services
 ## To block DNS over TLS (DoT), block port 853
 ## This list has been created for security purpose ONLY. DoH by concept is a great idea, but already being abused.
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
-## Did I miss a domain? Let me know! https://github.com/Bryantdl7/pihole-blocklists/issues
-## Last update : 3/9/24
 
 #===================================================================
 
@@ -6129,7 +6123,6 @@ ns.ciwer.cn
 gc.cyberbeta.cn
 doh.dl4mt.cn
 dns.tuna.tsinghua.edu.cn
-2402:f000:1:416:101:6:6:6
 nas.guyifei.cn
 doh.hugang8.cn
 dns.hujiayucc.cn
@@ -6553,13 +6546,10 @@ dns.philqoo.com
 dns.pieterdherde.com
 helios.plan9-dns.com
 216.238.80.219
-2001:19f0:b400:1d8c:5400:4ff:fe11:b15a
 kronos.plan9-dns.com
 207.246.87.96
-2001:19f0:5:3bd7:5400:4ff:fe05:da83
 pluton.plan9-dns.com
 149.28.101.119
-2001:19f0:9002:de4:5400:4ff:fe08:7de3
 secure-dns.pleumkungz.com
 gaia.plonknet.com
 uranus.plonknet.com
@@ -8157,17 +8147,14 @@ coe01.dnscry.pt
 104.192.102.132
 cph01.dnscry.pt
 85.120.84.5
-2a0e:1d80:31:8a56:0:b0e:5e:0
 cvt01.dnscry.pt
 104.128.190.108
-2a0c:b840:2:162:1808:0:1c:9b6c
 den01.dnscry.pt
 193.8.172.248
 dfw02.dnscry.pt
 23.230.253.98
 dtw01.dnscry.pt
 66.187.7.140
-2606:65c0:40:4:5f3:54c4:8d10:9b98
 dub01.dnscry.pt
 194.26.213.15
 dus01.dnscry.pt
@@ -8178,12 +8165,10 @@ fet01.dnscry.pt
 23.134.88.71
 fjr01.dnscry.pt
 89.36.162.187
-2a06:f902:4001:100:9000:9000:39a4:5feb
 fnt01.dnscry.pt
 147.189.140.136
 fra01.dnscry.pt
 194.50.19.150
-2a0f:5707:ab80:334e:2:2:2cd2:a8bc
 geg01.dnscry.pt
 104.36.86.181
 gru01.dnscry.pt
@@ -8206,17 +8191,14 @@ ist01.dnscry.pt
 193.228.1.130
 jkt01.dnscry.pt
 103.76.129.94
-2407:6ac0:3:5:1234:e34e:72e4:1
 jnb01.dnscry.pt
 169.239.128.124
 kiv01.dnscry.pt
 176.123.10.105
 las01.dnscry.pt
 209.141.45.27
-2605:6400:20:2258:7acb:91ff:2098:a9
 lax01.dnscry.pt
 84.33.244.100
-2a0c:8fc3:3:1:2:3:4:5
 lax02.dnscry.pt
 104.200.67.194
 lim01.dnscry.pt
@@ -8243,23 +8225,18 @@ naw01.dnscry.pt
 23.137.249.26
 nue01.dnscry.pt
 202.61.236.67
-2a03:4000:5c:51:24b9:51ff:fe80:f3a7
 nyc01.dnscry.pt
 84.33.245.10
 omr01.dnscry.pt
 193.32.87.127
-2a0d:8140:0:13:2915:af:0:18
 ord01.dnscry.pt
 45.41.204.204
-2602:fea7:e0c:e:bff:6:70:194c
 ott01.dnscry.pt
 104.234.231.239
 par01.dnscry.pt
 89.117.2.17
-2402:d0c0:22:6cd0:4:4:4:5b81
 pdx01.dnscry.pt
 103.124.106.233
-2402:d0c0:16:a1e6:0:b893:bf7:dd
 ped01.dnscry.pt
 176.111.219.126
 phl01.dnscry.pt
@@ -8282,7 +8259,6 @@ sjc01.dnscry.pt
 176.111.223.167
 slc01.dnscry.pt
 103.114.162.65
-2402:d0c0:18:c8ff:0:b893:bf7:dd
 sof01.dnscry.pt
 79.124.77.3
 sto01.dnscry.pt
@@ -8293,7 +8269,6 @@ tll01.dnscry.pt
 185.194.53.22
 tpa01.dnscry.pt
 165.140.117.248
-2602:fcc0:2222:0:ff24:a2c7:19c:1
 tpe01.dnscry.pt
 103.131.189.11
 trf01.dnscry.pt
@@ -9031,7 +9006,6 @@ doh.pub/dns-query
 120.53.53.53/dns-query
 public.dns.iij.jp/dns-query
 neatdns.ustclug.org/resolve
-101.6.6.6:8443/resolve
 doh.sb/dns-query
 dns.rubyfish.cn/dns-query
 jp.tiar.app/dns-query
