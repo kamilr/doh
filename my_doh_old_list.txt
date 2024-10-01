@@ -5596,7 +5596,7 @@ family.canadianshield.cira.ca
 # Captnemo
 doh.captnemo.in
 
-# Cisco / OpenDNS
+# Cisco 
 resolver1.opendns.com
 resolver2.opendns.com
 resolver1-fs.opendns.com
@@ -8992,32 +8992,32 @@ dns.froth.zone
 111.7.223.98
 106.75.177.177
 
-doh.opendns.com/dns-query
-ordns.he.net/dns-query
-dns.twnic.tw/dns-query
-wikimedia-dns.org/dns-query
-dns.hinet.net/dns-query
-private.canadianshield.cira.ca/dns-query
-dns.adguard.com/dns-query
-doh.pub/dns-query
-223.5.5.5/dns-query
-223.6.6.6/dns-query
-1.12.12.12/dns-query
-120.53.53.53/dns-query
-public.dns.iij.jp/dns-query
-neatdns.ustclug.org/resolve
-doh.sb/dns-query
-dns.rubyfish.cn/dns-query
-jp.tiar.app/dns-query
-i.233py.com/dns-query
-dot-jp.blahdns.com/dns-query
-berd.moe/dns
-i.passcloud.xyz/dns-query
-arashi.eu.org/dns-query
-arashi.eu.org/dns-query
-dns.ipv6dns.com/dns-query
-dns.ipv6dns.com/dns-query
-doh.onedns.net/dns-query
+doh.opendns.com
+ordns.he.net
+dns.twnic.tw
+wikimedia-dns.org
+dns.hinet.net
+private.canadianshield.cira.ca
+dns.adguard.com
+doh.pub
+223.5.5.5
+223.6.6.6
+1.12.12.12
+120.53.53.53
+public.dns.iij.jp
+neatdns.ustclug.org
+doh.sb
+dns.rubyfish.cn
+jp.tiar.app
+i.233py.com
+dot-jp.blahdns.com
+berd.moe
+i.passcloud.xyz
+arashi.eu.org
+arashi.eu.org
+dns.ipv6dns.com
+dns.ipv6dns.com
+doh.onedns.net
 
 8888.google
 a.vvvglass.com
@@ -10676,4 +10676,3 @@ doh.crypto.sx
 home.marcrnt.de
 ibuki.cgnat.net
 doh-2.seby.io
-
